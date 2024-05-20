@@ -1,0 +1,342 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.img_2{
+    position: absolute;
+    top: 30%;
+    width: 60%;
+    left: 3%;
+    display: flex;
+    justify-content: center;
+}
+.imgP2{
+    position: absolute;
+    top: 368%;
+    width: 20%;
+    left: 7%;
+    display: flex;
+    justify-content: center;
+}
+
+.uva{
+    position: absolute;
+    top: 23%;
+    left: 4;
+    height: 0vh;
+    width: 108vw;
+    background-color:green;
+}
+.checar{
+    position: absolute;
+    height: 39px;
+    width: 39px;
+    border-radius: 50%;
+    background-color: #ffcca4;
+    top: 22%;
+    left: 17%;
+}
+.checar1{
+    position: absolute;
+    height: 39px;
+    width: 39px;
+    border-radius: 50%;
+    background-color: #ffcca4;
+    top: 22%;
+    left: 17%;
+}
+
+
+.checar2{
+    position: absolute;
+    height: 39px;
+    width: 39px;
+    border-radius: 50%;
+    background-color: #ef9f7e;
+    top: 22%;
+    left: 25%;
+}
+
+.checar3{
+    position: absolute;
+    height: 39px;
+    width: 39px;
+    border-radius: 50%;
+    background-color: #e9b995;
+    top: 22%;
+    left: 33%;
+}
+
+.checar4{
+    position: absolute;
+    height: 39px;
+    width: 39px;
+    border-radius: 50%;
+    background-color: #dfb175;
+    top: 22%;
+    left: 41%;
+}
+
+.checar5{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: #ad6c44;
+    top: 22%;
+    left: 49%;
+}
+
+.checar6{
+    position: absolute;
+    height: 39px;
+    width: 39px;
+    border-radius: 50%;
+    background-color: #38160a;
+    top: 22%;
+    left: 57%;
+}
+.TOPO{
+
+    color:white ;
+    width: 110vw;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    left: 60%;
+}
+
+.informa{
+    position: absolute;
+    background-color: #d62020;
+    top: 110%;
+    left: 2%;
+    width: 110vw;
+    justify-content: center;
+}
+
+.informa2{
+    position: absolute;
+    top: 120%;
+    left: 2%;
+    width: 110vw;
+    justify-content: center;
+}
+.informa3{
+    position: absolute;
+    top: 250%;
+    left: 2%;
+    width: 110vw;
+    justify-content: center;
+}
+.informa4{
+    position: absolute;
+    top: 258%;
+    left: 2%;
+    width: 110vw;
+    justify-content: center;
+}
+.informa5{
+    position: absolute;
+    top: 290%;
+    left: 2%;
+    width: 110vw;
+    justify-content: center;
+}
+.informa6{
+    position: absolute;
+    top: 315%;
+    left: 2%;
+    width: 110vw;
+    justify-content: center;
+}
+.informa7{
+    position: absolute;
+    top: 334%;
+    left: 2%;
+    width: 110vw;
+    justify-content: center;
+}
+.informa8{
+    position: absolute;
+    top: 400%;
+    left: 2%;
+    height: 20vh;
+    width: 110vw;
+    justify-content: center;
+}
+.topo_at{
+    color:red;
+    position: absolute;
+    top: 16%;
+    left: 64%;
+    width: 35%;
+
+}
+.topo_at2{
+    color: #d62020;
+    position: absolute;
+    top: 20%;
+    left: 64%;
+    width: 35%;
+}
+.topo_1{
+    color:black;
+    position: absolute;
+    top: 24%;
+    left: 64%;
+    width: 46%;
+}
+.topo_2{
+    color:black;
+    position: absolute;
+    top: 28%;
+    left: 64%;
+    width: 46%;
+}
+.topo_3{
+    position: absolute;
+    color:black;
+    position: absolute;
+    top: 32%;
+    left: 64%;
+    width: 46%;
+}
+.topo_4{
+    position: absolute;
+    color:black;
+    position: absolute;
+    top: 36%;
+    left: 64%;
+    width: 46%;
+}
+.topo_5{
+    position: absolute;
+    color:black;
+    position: absolute;
+    top: 40%;
+    left: 64%;
+    width: 46%;
+}
+
+.topo_6{
+    position: absolute;
+    color:black;
+    position: absolute;
+    top: 44%;
+    left: 64%;
+    width: 46%;
+}
+.todooclima{
+    height: 100vh;
+    width: 110vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://source.unsplash.com/1600x900/?landscape");
+    
+}
+.caixa-maior {position: absolute;
+    top: 50%;
+    left: 65%;
+    background-color: #000000;
+    opacity: 0.8;
+    border-radius: 25px;
+    padding: 20px;
+    width: 45%;
+    max-width: 460px;
+}
+
+.h_1{
+    height: 100vh;
+    width: 20vw;
+    position: absolute;
+    top: 115%;
+    left: 3%;
+    color: aqua;
+}
+
+.text{
+    position: absolute;
+    top: 110%;
+    left: 3%;
+    color: aqua;
+
+}
+
+
+.aprestaa{
+    position: absolute;
+    top: 8%;
+    left: 2%;
+    background-color: #000000;
+    opacity: 0.8;
+    border-radius: 25px;
+    padding: 10px;
+    width: 80%;
+    max-width: 360px;
+}
+
+.input-cidade{
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-radius: 25px;
+    font-size: 20px;
+    background-color: #7c7c7c2b;
+    color: #ffffff;
+    width: calc( 100% - 70px);
+}
+
+.botao-busca{
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-radius: 50px;
+    background-color: #7c7c7c2b;
+    cursor: pointer;
+    float: right;
+}
+
+.img-busca{
+    width: 20px;
+}
+
+.caixa-media{
+    margin-top: 30px;
+}
+
+.cidade{
+    color: #ffffff;
+    font-size: 28px;
+}
+
+.temp{
+    font-size: 20px;
+    color: #ffffff;
+    margin-top: 20px;
+}
+
+.caixa-meno{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.texto-previsao{
+    color: #ffffff;
+    margin-left: 20px;
+}
+
+.umidade{
+    color:#ffffff;
+    margin-top: 20px;
+}
+.felipe button:hover{
+    transform: translateY(-5px);
+    transition: all 0,2s;
+    font-weight: bold;
+}
